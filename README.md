@@ -28,7 +28,7 @@ with open("copy.txt",'w') as file2:
 
 ![OUTPUT](<Screenshot 2024-05-13 172508.png>)
 ![OUTPUT](image.png)
-![OUTPUT](image-1.png)
+
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
